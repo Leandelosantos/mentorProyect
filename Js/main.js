@@ -81,5 +81,3 @@ btnSubmit.addEventListener("click", () => {
         window.open("../../repo/pages/thank.html", "_blank")
     }
 })
-
-console.log();
