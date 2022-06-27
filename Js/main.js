@@ -78,6 +78,6 @@ btnSubmit.addEventListener("click", () => {
     if (rankArray == '') {
         alert("You must qualify first")
     }else {
-        window.open("../../repo/pages/thank.html", "_blank")
+        location.assign("../../repo/pages/thank.html")
     }
 })
