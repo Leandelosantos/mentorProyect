@@ -78,6 +78,6 @@ btnSubmit.addEventListener("click", () => {
     if (rankArray == '') {
         alert("You must qualify first")
     }else {
-        location.assign("../../repo/pages/thank.html")
+        location.assign("http://127.0.0.1:5500/repo/pages/thank.html")
     }
 })
